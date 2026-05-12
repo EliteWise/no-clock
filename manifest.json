@@ -1,0 +1,10 @@
+{
+  "Name": "No Clock",
+  "Author": "EliteWise",
+  "Version": "1.1.0",
+  "Description": "Description",
+  "UniqueID": "EliteWise.NoClock",
+  "EntryDll": "NoClock.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
